@@ -25,7 +25,7 @@ const NavBar = () => {
         <Container>
           <Navbar.Brand href="/" className="fw-bold text-warning">
             <i className="fas fa-chart-line me-2"></i>
-            TechFinance Blog
+            MangoToday
           </Navbar.Brand>
           
           <Navbar.Toggle aria-controls="basic-navbar-nav" />

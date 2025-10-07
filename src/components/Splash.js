@@ -6,7 +6,7 @@ const Splash = () => {
     <Container className="d-flex justify-content-center align-items-center" style={{ height: '50vh' }}>
       <div className="text-center">
         <Spinner animation="border" variant="warning" style={{ width: '3rem', height: '3rem' }} />
-        <h4 className="mt-3 text-muted">Loading TechFinance Blog...</h4>
+        <h4 className="mt-3 text-muted">MangoToday</h4>
       </div>
     </Container>
   );
